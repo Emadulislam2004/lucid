@@ -1,0 +1,120 @@
+@media (max-width:1199px) {
+    .banner h1{
+        font-size: 40px;
+    }
+    
+}
+@media (max-width:991px) {
+    .row_heading h6{
+        font-size:15px ;
+    }
+    .banner h1{
+        font-size: 30px;
+        padding: 10px 0px;
+    }
+    .banner P{
+        font-size: 13px;
+        margin-bottom: 25px;
+    }
+    .btn{
+        padding: 11px 18px;
+    }
+    .c_details h6{
+        font-size: 15px;
+    }
+    .call_to_action h2{
+        
+        text-align: center;
+    }
+    .c_img {
+        width: 15%;
+    }
+    
+    
+}
+@media (max-width:767px) {
+    .banner{
+        padding: 55px 0px 0px 0px;
+    }
+    .banner h1{
+        font-size: 40px;
+    }
+    .client{
+        justify-content: center;
+    }
+}
+@media (max-width:575px){
+    .banner h1{
+        font-size: 30px;
+    }
+    .banner{
+        text-align: center;
+    }
+    .c_img{
+        width: 20%;
+    }
+    .contact_form{
+        padding: 40px 20px!important;
+    }
+}
+@media (max-width:361px){
+    .banner{
+        text-align: center;
+    }
+    .banner h1{
+        font-size: 25px;
+    }
+    .button_2{
+        margin: 10px 0px 0px 0px;
+        letter-spacing: 2px;
+    }
+    .btn{
+        padding: 12px 25px;
+    }
+}
+@media (max-width:301px){
+    .banner h1{
+        font-size: 20px;
+    }
+}
+
+/*  */
+@media (min-width:0px) and (max-width:320px) {
+    .row_heading h6{
+        font-size: 14px;
+    }
+    .row_heading h1{
+        font-size: 24px;
+    }
+    .product_box h1{
+        font-size: 24px;
+    }
+    .about_item p{
+        font-size: 16px;
+    }
+    .c_details h6{
+        font-size: 13px;
+    }
+    .call_to_action h2{
+        font-size: 22px;
+        text-align: center;
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {
+    .row_heading h1{
+        font-size: 34px;
+    }
+    .pricing_box button{
+        padding: 12px 36px;
+    }
+    .pricing_box p{
+        font-size: 15px;
+    }
+    .pricing_box h5{
+        font-size: 22px;
+    }
+    .call_to_action h2{
+        font-size: 24px;
+    }
+}
+
